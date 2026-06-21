@@ -2,6 +2,4 @@
 A generic, customizable Chrome startup page
 
 Example
-<p align="center">
- <img src="example.png" alt="Screenshot" width="600" heighth="800>
-</p>
+(https://github.com/trebleCode/Generic-Corporate-Chrome-Start-Page/blob/main/example.png)
